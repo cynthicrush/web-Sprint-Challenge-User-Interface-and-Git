@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    HTML is a computer language that can help you to make text layout of your website.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Block-level is like a box and it owns a row. Inline-level shares the row with other inline or inline-block level elements, but width and height are not working for inline-level elements.
 
 3. What are the 4 areas of the box model?
 
+    Content, padding, border and margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    x-axis
+
 5. Explain why git is valuable to a team of developers.
+
+    Git helps you get repos from Github and be able to make your own changes on them.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
